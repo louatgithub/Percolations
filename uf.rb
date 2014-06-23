@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby
-
 class QuickFind
   def initialize(n)
     @ids = (0..n-1).to_a
